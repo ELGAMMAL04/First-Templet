@@ -365,7 +365,7 @@ html {
 .about .about-content .text p:first-of-type {
     font-weight: bold;
     line-height: 2;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
 }
 .about .about-content .text hr {
     width: 50%;
